@@ -1,2 +1,3 @@
-# detecao_faces
-Estudo sobre IA de detecção de faces
+# Detect_faces
+
+Estudy about IA detection the faces
