@@ -1,6 +1,7 @@
 import cv2
 import glob
 
+
 def analiza_varias(imagens):
     classificador = cv2.CascadeClassifier('cascades/haarcascade_frontalface_default.xml')
     imagem = cv2.imread(imagens)
